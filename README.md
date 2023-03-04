@@ -66,3 +66,4 @@ Postman kommer att skicka var och en av förfrågningarna i tur och ordning och 
 
 • Tidslogg (hur många timmar tog projektet att genomföra): spenderat tid på hela projektet: 2 timmar på kod och 10 min att förstå problemet. 
 Det medgföljer även en video där den visar hur jag implementerar/skriver koden.  länken till videon: https://clipchamp.com/watch/QcdspFPDDaE
+youtube: https://www.youtube.com/watch?v=Dir-DCSYxuY
